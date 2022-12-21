@@ -47,4 +47,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me: 
 
+LinkedIn : https://www.linkedin.com/in/rudransh-bansal-515907210/
 
+Twitter : https://twitter.com/BansalRudransh
+
+E-Mail : rudranshbansal@outlook.com
