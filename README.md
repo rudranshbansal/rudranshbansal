@@ -3,12 +3,12 @@
 
 ![](https://komarev.com/ghpvc/?username=rudranshbansal&color=blue)
 
-- I'm currently working on 
-- 🌱 I’m currently learning 
--  I’m looking to collaborate on 
-- I'm looking for help with
-- Interests
-- Side hobby
+- ⛅ I'm currently working on Deep Learning, Backend Development
+- 🌱 I’m currently learning TimeSeries Models, Node Js, Mongo DB
+- ⌚ I’m looking to collaborate on TimeSeries Projects, Backend Projects, Automation Projects
+- 🤔 I'm looking for help with data structures and algorithms
+- ⚡ Interests- DevOps, integrating IoT with Cloud
+- 🏯 Side hobby learning Japanese  
 - 📫 How to reach me bansalrudransh24@gmail.com
 
 [![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudranshbansal&show_icons=true&theme=cobalt)](https://github.com/rudranshbansal/github-readme-stats)
@@ -45,5 +45,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50" height="50">
 
 
+## Connect with me: 
 
 
