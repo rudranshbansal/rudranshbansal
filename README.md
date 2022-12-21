@@ -11,11 +11,11 @@
 - 🏯 Side hobby learning Japanese  
 - 📫 How to reach me bansalrudransh24@gmail.com
 
-[![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudranshbansal&show_icons=true&theme=cobalt)](https://github.com/rudranshbansal/github-readme-stats)
+[![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudranshbansal&show_icons=true&theme=tokyonight)](https://github.com/rudranshbansal/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rudranshbansal&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rudranshbansal&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudranshbansal&layout=compact&theme=cobalt)](https://github.com/rudranshbansal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudranshbansal&layout=compact&theme=tokyonight)](https://github.com/rudranshbansal/github-readme-stats)
 <!---
 rudranshbansal/rudranshbansal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -43,6 +43,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50" height="50">
+
+## My Stats:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rudranshbansal&theme=tokyonight&margin-w=15)](https://github.com/rudranshbansal/github-profile-trophy)
 
 
 ## Connect with me: 
