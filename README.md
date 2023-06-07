@@ -45,6 +45,11 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50" height="50">
 
+<img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" width="50" height="50">
+<img src="https://ibb.co/QNHhjhf" width="50" height="50">
+
 ## My Stats:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rudranshbansal&theme=tokyonight&margin-w=15)](https://github.com/rudranshbansal/github-profile-trophy)
