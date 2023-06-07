@@ -3,13 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=rudranshbansal&color=blue)
 
-- ⛅ I'm currently working on Deep Learning, Backend Development
-- 🌱 I’m currently learning TimeSeries Models, Node Js, Mongo DB
-- ⌚ I’m looking to collaborate on TimeSeries Projects, Backend Projects, Automation Projects
+- ⛅ I'm currently working on Deep Learning, XAI, Backend Development
+- 🌱 I’m currently learning Data Analysis, NLP, Node Js, Mongo DB
+- ⌚ I’m looking to collaborate on Data Analysis Projects, Backend Projects, Automation Projects
 - 🤔 I'm looking for help with data structures and algorithms
 - ⚡ Interests- DevOps, integrating IoT with Cloud
 - 🏯 Side hobby learning Japanese  
-- 📫 How to reach me bansalrudransh24@gmail.com
+- 📫 How to reach me rudranshbansal@outlook.com
 
 [![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudranshbansal&show_icons=true&theme=tokyonight)](https://github.com/rudranshbansal/github-readme-stats)
 
